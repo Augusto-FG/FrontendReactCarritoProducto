@@ -1,6 +1,6 @@
 # 🛒 Frontend de Carrito de Compras en React
 
-¡Bienvenido al proyecto frontend del sistema de gestión de carritos! 🚀 Este proyecto está construido con **React** y **Vite**, utilizando **Material UI** para un diseño moderno y responsivo. A continuación, te mostramos cómo desplegarlo localmente.
+¡Bienvenido al proyecto frontend del sistema de gestión de carritos! 🚀 Este proyecto está construido con **React** y **Vite**, utilizando **Material UI** para un diseño moderno y responsivo. A continuación, te  muestro cómo desplegarlo localmente.
 
 ## 🚀 Despliegue Local
 
@@ -10,7 +10,7 @@ Sigue estos pasos para ejecutar la aplicación en tu entorno local:
    - Descarga e instala [Node.js](https://nodejs.org) (incluye npm).
 
 ### 2. **Eliminar la Carpeta `node_modules`**
-   - Si descargaste el proyecto y esta carpeta existe, elimínala para asegurar una instalación limpia.
+   - Si descargaste el proyecto y esta carpeta existe, elimínala para asegurar una instalación limpia. Luego instalaremos las dependencias.
 
 ### 3. **Abrir el Proyecto en Visual Studio Code**
    - Utiliza Visual Studio Code o tu editor favorito para abrir el proyecto.
@@ -59,4 +59,4 @@ El proyecto está organizado en varias carpetas principales para facilitar la mo
 
 ## 🎉 ¡Gracias por tu interés en el proyecto! 
 
-Si tienes alguna duda o sugerencia, no dudes en contribuir o abrir un issue en el repositorio. 😄
+Si tenes alguna duda o sugerencia, no dudes en contribuir o abrir un issue en el repositorio. 😄
