@@ -13,17 +13,17 @@ Sigue estos pasos para ejecutar la aplicación en tu entorno local:
    - Si descargaste el proyecto y esta carpeta existe, elimínala para asegurar una instalación limpia. Luego instalaremos las dependencias.
 
 ### 3. **Abrir el Proyecto en Visual Studio Code**
-   - Utiliza Visual Studio Code o tu editor favorito para abrir el proyecto.
+   - Podes usar Visual Studio Code o tu editor favorito para abrir el proyecto.
 
 ### 4. **Instalar Dependencias**
-   - Abre la terminal en la carpeta del proyecto y ejecuta:
+   - Abri la terminal en la carpeta del proyecto y ejecuta:
      ```bash
      npm install
      ```
      Esto instalará todas las dependencias necesarias que están definidas en `package.json`.
 
 ### 5. **Iniciar el Servidor de Desarrollo**
-   - Una vez instaladas las dependencias, inicia la aplicación con:
+   - Una vez instaladas las dependencias, podes iniciar la aplicación con:
      ```bash
      npm run dev
      ```
